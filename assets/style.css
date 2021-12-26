@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.img {
+  display: inline-block;
+  height: 25%;
+  border: 10px solid;
+  vertical-align: top;
+  margin: 0 auto;
+}
+.contact {
+  display: inline-block;
+  width: 70%;
+  vertical-align: top;
+}
+.info{color: blue;}
+.info2{margin-left: 20px;}
